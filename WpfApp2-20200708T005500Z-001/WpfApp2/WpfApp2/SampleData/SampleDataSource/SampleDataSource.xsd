@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+      *********    請勿修改此檔案     *********
+      此檔案是由設計工具重新產生的。
+      修改此檔案可能會導致錯誤發生。
+-->
+<xs:schema xmlns:blend="http://schemas.microsoft.com/expression/blend/2008" xmlns:tns="Expression.Blend.SampleData.SampleDataSource" targetNamespace="Expression.Blend.SampleData.SampleDataSource" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="SampleDataSource" type="tns:SampleDataSource" />
+  <xs:complexType name="SampleDataSource">
+    <xs:sequence>
+      <xs:element name="Collection" type="tns:ItemCollection" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemCollection">
+    <xs:sequence>
+      <xs:element maxOccurs="unbounded" name="Item" type="tns:Item" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Item">
+    <xs:attribute name="name" type="xs:string" />
+    <xs:attribute name="gender" type="xs:boolean" />
+    <xs:attribute blend:FormatParameters="2" name="age" type="xs:double" />
+    <xs:attribute name="pic" type="tns:Basic-Image" />
+  </xs:complexType>
+  <xs:simpleType name="Basic-Image">
+    <xs:restriction base="xs:anyURI" />
+  </xs:simpleType>
+</xs:schema>

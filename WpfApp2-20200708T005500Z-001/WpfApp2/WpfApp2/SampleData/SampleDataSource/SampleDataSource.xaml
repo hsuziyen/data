@@ -1,0 +1,109 @@
+﻿<!--
+      *********    請勿修改此檔案     *********
+      此檔案是由設計工具重新產生的。
+      修改此檔案可能會導致錯誤發生。
+-->
+<SampleDataSource:SampleDataSource xmlns:SampleDataSource="clr-namespace:Expression.Blend.SampleData.SampleDataSource">
+	<SampleDataSource:SampleDataSource.Collection>
+		<SampleDataSource:Item name="Maecenas aenean mauris" gender="True" age="69" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Praesent nam" gender="False" age="90" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Sed cras duis class" gender="True" age="21" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Curae nunc donec dis" gender="False" age="11" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Aliquam amet integer" gender="True" age="23" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Nullam quisque" gender="False" age="21" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Est accumsan etiam vivamus" gender="True" age="39" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Hac fusce lorem aliquam" gender="False" age="25" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Bibendum ante" gender="True" age="69" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Morbi arcu" gender="False" age="61" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Aliquam maecenas" gender="True" age="24" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Praesent aenean mauris" gender="False" age="41" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Integer quisque nam" gender="True" age="55" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Class accumsan bibendum dictumst" gender="False" age="73" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Sed curae" gender="True" age="16" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Nullam donec dis" gender="False" age="41" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Etiam eleifend" gender="True" age="26" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Vivamus fusce" gender="False" age="29" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Aliquam est aptent" gender="True" age="44" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Hac auctor aliquet cras" gender="False" age="71" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Blandit lorem commodo" gender="True" age="57" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Leo morbi conubia duis" gender="False" age="91" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Cubilia nunc nulla" gender="True" age="69" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Proin congue" gender="False" age="33" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Cursus augue dictum" gender="True" age="51" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Facilisi dolor dapibus" gender="False" age="58" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Amet fames" gender="True" age="31" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Mus lectus" gender="False" age="18" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Felis ante" gender="True" age="20" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Arcu nec non" gender="False" age="68" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Faucibus egestas" gender="True" age="22" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Ipsum libero" gender="False" age="16" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Per sed ligula" gender="True" age="63" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Justo habitant diam inceptos" gender="False" age="80" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Litora lacus eget euismod" gender="True" age="72" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Elit feugiat" gender="False" age="21" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Sem lorem" gender="True" age="15" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Sit interdum vel" gender="False" age="54" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Enim erat" gender="True" age="17" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Magna eros" gender="False" age="21" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Massa nam sed dis" gender="True" age="92" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Luctus lobortis" gender="False" age="39" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Nibh magnis nisi nascetur" gender="True" age="91" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Gravida iaculis metus mattis" gender="False" age="92" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Est hac" gender="True" age="34" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Mauris lacinia morbi" gender="False" age="53" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Leo pharetra nisl" gender="True" age="49" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Neque netus mollis mus" gender="False" age="92" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Placerat nec non" gender="True" age="67" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Pulvinar montes per" gender="False" age="68" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Sed laoreet" gender="True" age="20" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Natoque nulla nunc" gender="False" age="52" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Sagittis nostra" gender="True" age="18" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Senectus odio posuere sociosqu" gender="False" age="74" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Suscipit porta torquent ornare" gender="True" age="97" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Ultrices sem vehicula platea" gender="False" age="71" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Purus potenti" gender="True" age="28" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Orci risus" gender="False" age="35" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Sit pretium rhoncus velit" gender="True" age="91" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Vitae vel" gender="False" age="10" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Nam class" gender="True" age="21" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Curae pede sodales viverra" gender="False" age="99" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Aliquam volutpat" gender="True" age="38" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Primis integer" gender="False" age="37" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Quisque sed rutrum" gender="True" age="43" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Vivamus dis" gender="False" age="17" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Donec etiam est sapien" gender="True" age="78" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Semper hac leo quam" gender="False" age="74" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Fusce quis" gender="True" age="11" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Lorem aliquam urna sociis" gender="False" age="95" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Aliquet taciti" gender="True" age="36" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Morbi cras maecenas mus" gender="False" age="72" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Duis nulla" gender="True" age="21" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Tellus blandit" gender="False" age="33" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Nunc praesent accumsan proin" gender="True" age="78" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Nec bibendum" gender="False" age="27" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Augue amet" gender="True" age="10" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Tempor dolor commodo ante" gender="False" age="76" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Tempus conubia cubilia dictumst" gender="True" age="99" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Non per sed sem" gender="False" age="97" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Arcu sit" gender="True" age="19" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Tortor diam" gender="False" age="38" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Eleifend eget elit" gender="True" age="51" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Facilisi turpis varius" gender="False" age="51" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Dapibus faucibus habitant" gender="True" age="58" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Fames felis egestas" gender="False" age="69" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Vel aenean enim mauris" gender="True" age="98" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Euismod nam erat feugiat" gender="False" age="89" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Gravida ipsum inceptos iaculis" gender="True" age="83" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Justo interdum" gender="False" age="11" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Sed dis eros lacus" gender="True" age="93" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Lorem nibh nisi lacinia" gender="False" age="79" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Nullam lobortis aptent" gender="True" age="62" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Auctor laoreet" gender="False" age="17" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Nascetur natoque" gender="True" age="10" pic="SampleDataSource_Files\image05.png"/>
+		<SampleDataSource:Item name="Posuere nisl nunc magna" gender="False" age="92" pic="SampleDataSource_Files\image01.png"/>
+		<SampleDataSource:Item name="Est pharetra" gender="True" age="10" pic="SampleDataSource_Files\image02.png"/>
+		<SampleDataSource:Item name="Massa placerat congue" gender="False" age="63" pic="SampleDataSource_Files\image03.png"/>
+		<SampleDataSource:Item name="Odio orci potenti" gender="True" age="59" pic="SampleDataSource_Files\image04.png"/>
+		<SampleDataSource:Item name="Pretium metus" gender="False" age="27" pic="SampleDataSource_Files\image05.png"/>
+	</SampleDataSource:SampleDataSource.Collection>
+</SampleDataSource:SampleDataSource>

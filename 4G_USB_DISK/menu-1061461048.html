@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>1061461048 許芷嫣</title>
+	<meta charset="utf-8" />
+    <script src="scripts/jquery-1.6.4.min.js"></script>
+    
+    <style>
+        #navigation ul li{
+            float:left;
+            list-style:none;
+            width:60px;
+            height:200px;
+            background-color:#555;
+            border:1px solid #fff;
+            text-align:center;
+            background-position:center 30px;
+            background-repeat:no-repeat;
+           }
+        #navigation a{
+            color:aqua;
+           }
+        #navigation #home {
+             background-image:url(images/c1.gif);
+        }
+        #navigation #dir {
+            background-image:url(images/c2.gif);
+        }
+        #navigation #cart {
+             background-image:url(images/c3.gif);
+        }
+        #navigation #info {
+             background-image:url(images/c4.gif);
+        }
+    </style>
+    <script>
+        $(document).ready(function () {
+            $("#navigation ul li").hover(
+            function () {
+                $(this).animate({ height: '350px' }, 800, 'swing');
+            }
+            , function () {
+                $(this).animate({ height: '20px' }, 800, 'swing');
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="navigation">
+        <ul>
+            <li id="home"><a href="#">首頁</a></li>
+            <li id="dir"><a href="#">目錄</a></li>
+            <li id="cart"><a href="#">購物車</a></li>
+            <li id="info"><a href="#">資訊</a></li>
+        </ul>
+    </div>
+</body>
+</html>
